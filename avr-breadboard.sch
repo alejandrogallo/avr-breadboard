@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:avr-breadboard-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -30,7 +31,7 @@ U 1 1 5D800397
 P 5750 2050
 F 0 "J3" H 5800 2367 50  0000 C CNN
 F 1 "Conn_02x03_Counter_Clockwise" H 5800 2276 50  0000 C CNN
-F 2 "Connector_PinSocket_2.00mm:PinSocket_2x03_P2.00mm_Vertical" H 5750 2050 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical" H 5750 2050 50  0001 C CNN
 F 3 "~" H 5750 2050 50  0001 C CNN
 	1    5750 2050
 	1    0    0    -1  
@@ -139,7 +140,7 @@ U 1 1 5D8019CC
 P 1550 2600
 F 0 "J1" H 1470 1975 50  0000 C CNN
 F 1 "Conn_01x08" H 1470 2066 50  0000 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x08_P2.00mm_Vertical" H 1550 2600 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" H 1550 2600 50  0001 C CNN
 F 3 "~" H 1550 2600 50  0001 C CNN
 	1    1550 2600
 	-1   0    0    1   
@@ -221,7 +222,7 @@ U 1 1 5D8083E6
 P 2900 3500
 F 0 "J2" H 2980 3492 50  0000 L CNN
 F 1 "Conn_01x02" H 2980 3401 50  0000 L CNN
-F 2 "Connector_PinSocket_2.00mm:PinSocket_1x02_P2.00mm_Vertical" H 2900 3500 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 2900 3500 50  0001 C CNN
 F 3 "~" H 2900 3500 50  0001 C CNN
 	1    2900 3500
 	1    0    0    -1  
